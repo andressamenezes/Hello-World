@@ -1,2 +1,2 @@
-# Hello World
- Primeiro repositório
+# Hello World, test
+ Aprendendo a criar um repositório versionado com o Git e Github
