@@ -34,5 +34,5 @@ Num | Nome | Nota
 
 * Comandos:
 
-Coomando `document.getElementById()` da linguagemn **JavaScript**
+Comando `document.getElementById()` da linguagemn **JavaScript**
 
