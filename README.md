@@ -1,3 +1,3 @@
-# Hello World! **TESTE**
+# Hello World! 
 
- Aprendendo a criar um repositório versionado com o Git e Github!
+Aprendendo a criar um **repositório ** versionado com o *Git e GitHub*.
